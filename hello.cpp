@@ -1,5 +1,5 @@
 #include <iostream>
 int main() {
-    std::cout << "Hello World conflict 2" << std::endl;
+    std::cout << "Hello World conflict 1" << std::endl;
     return 0;
 }
